@@ -4,7 +4,7 @@
   <img alt="" src="https://swanserver.web.cern.ch/swanserver/images/badge_swan_white_150.png">
 </a>
 
-[![Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/eamonnmag/cern-csc-2017/master)
+[![Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/eamonnmag/cern-csc-2018/master)
 
 Remember to select the Python 3 option from the drop down when you 'spawn' the machine on SWAN.
 
