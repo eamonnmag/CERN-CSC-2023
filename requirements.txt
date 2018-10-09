@@ -1,0 +1,7 @@
+seaborn
+pandas
+numpy
+vega
+vega-datasets
+altair
+plotly
