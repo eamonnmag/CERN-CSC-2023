@@ -8,6 +8,12 @@
 
 Remember to select the Python 3 option from the drop down when you 'spawn' the machine on SWAN.
 
+## Use
+
+```git clone https://github.com/eamonnmag/CERN-CSC-2018.git```
+
 ## Credit
 
 Thanks to the creator of the FIFA Kaggle Data set, and the SWAN team @ CERN for helping me in preparing this tutorial :)
+
+
