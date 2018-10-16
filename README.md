@@ -1,6 +1,6 @@
 # CERN-CSC-2018-Exercises
 
-<a href="https://cern.ch/swanserver/cgi-bin/go/?projurl=https://github.com/eamonnmag/CERN-CSC-2017.git" target="_blank">
+<a href="https://cern.ch/swanserver/cgi-bin/go/?projurl=https://github.com/eamonnmag/CERN-CSC-2018.git" target="_blank">
   <img alt="" src="https://swanserver.web.cern.ch/swanserver/images/badge_swan_white_150.png">
 </a>
 
