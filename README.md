@@ -1,4 +1,4 @@
-# CERN-CSC-2018-Exercises
+# CERN CSC 2019 Visualization Course Exercises
 
 <a href="https://cern.ch/swanserver/cgi-bin/go/?projurl=https://github.com/eamonnmag/CERN-CSC-2019.git" target="_blank">
   <img alt="" src="https://swanserver.web.cern.ch/swanserver/images/badge_swan_white_150.png">
@@ -10,7 +10,7 @@ Remember to select the Python 3 option from the drop down when you 'spawn' the m
 
 ## Use
 
-```git clone https://github.com/eamonnmag/CERN-CSC-2018.git```
+```git clone https://github.com/eamonnmag/CERN-CSC-2019.git```
 
 ## Tutorial Contents
 
