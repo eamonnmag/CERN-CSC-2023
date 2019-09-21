@@ -2,6 +2,8 @@
 
 ![image](docs/img/cern-csc-vis-header.png)
 
+The overall goal of these exercises is to introduce some of the concepts we learnt during the lectures, but also to use some of the tools we use on a daily basis as data scientists.
+
 <a href="https://cern.ch/swanserver/cgi-bin/go/?projurl=https://github.com/eamonnmag/CERN-CSC-2019.git" target="_blank">
   <img alt="" src="https://swanserver.web.cern.ch/swanserver/images/badge_swan_white_150.png">
 </a>
@@ -19,8 +21,8 @@ Remember to select the Python 3 option from the drop down when you 'spawn' the m
 In these exercises we look at:
 
  * Visual Exploration of a Dataset - using visualization to explore data and tell a story of interesting insights found in our data. This will be performed using:
-     * [Matplotlib and Seaborn for static visualization](Creating Visualizations with Matplotlib and Seaborn.ipynb)
-     * [Altair for interactive visualizations](Optional - Interactive Visual Exploration with Altair.ipynb)
+     * [Matplotlib and Seaborn for static visualization](https://github.com/eamonnmag/CERN-CSC-2019/blob/master/Creating%20Visualizations%20with%20Matplotlib%20and%20Seaborn.ipynb)
+     * [Altair for interactive visualizations](https://github.com/eamonnmag/CERN-CSC-2019/blob/master/Optional%20-%20Interactive%20Visual%20Exploration%20with%20Altair-Copy1.ipynb)
  * How to create visualizations using these tools for visualization of distributions, correlations, identifying outliers, etc.
  * How to customize visualizations to create more coherent visualizations by removing noise from plots such as distracting lines, axes boundaries, and so on.
  * For Altair, how to build a complex dashboard-like visualization in Jupyter.
