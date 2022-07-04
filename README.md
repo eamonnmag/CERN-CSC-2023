@@ -4,17 +4,17 @@
 
 The overall goal of these exercises is to introduce some of the concepts we learnt during the lectures, but also to use some of the tools we use on a daily basis as data scientists.
 
-<a href="https://cern.ch/swanserver/cgi-bin/go/?projurl=https://github.com/eamonnmag/CERN-CSC-2019.git" target="_blank">
+<a href="https://cern.ch/swanserver/cgi-bin/go/?projurl=https://github.com/eamonnmag/CERN-CSC-2022.git" target="_blank">
   <img alt="" src="https://swanserver.web.cern.ch/swanserver/images/badge_swan_white_150.png">
 </a>
 
-[![Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/eamonnmag/cern-csc-2019/master)
+[![Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/eamonnmag/cern-csc-2022/master)
 
 Remember to select the **96 Python3** option from the **software stack** drop down when you 'spawn' the machine on SWAN.
 
 ## Use
 
-```git clone https://github.com/eamonnmag/CERN-CSC-2019.git```
+```git clone https://github.com/eamonnmag/CERN-CSC-2022.git```
 
 ## Tutorial Contents
 
