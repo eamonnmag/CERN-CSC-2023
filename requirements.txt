@@ -1,7 +1,7 @@
 matplotlib
 seaborn==0.11.2
 pandas==1.3.5
-numpy==1.21.6
+numpy==1.22
 vega==3.6.0
 vega-datasets
 altair==4.2.0
