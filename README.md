@@ -10,7 +10,7 @@ The overall goal of these exercises is to introduce some of the concepts we lear
 
 [![Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/eamonnmag/cern-csc-2022/master)
 
-Remember to select the **96 Python3** option from the **software stack** drop down when you 'spawn' the machine on SWAN.
+Remember to select the **LCG 102** option from the **software stack** drop down when you 'spawn' the machine on SWAN.
 
 ## Use
 
@@ -36,5 +36,3 @@ The interactive visualization section is more for those who are already well ver
 ## Credit
 
 Thanks to the creator of the FIFA Kaggle Data set, and the SWAN team @ CERN for helping me in preparing this tutorial!
-
-
