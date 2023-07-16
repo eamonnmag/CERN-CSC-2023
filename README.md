@@ -1,4 +1,4 @@
-# CERN CSC 2022 Visualization Exercises
+# CERN CSC 2023 Visualization Exercises
 
 ![image](docs/img/cern-csc-vis-header.png)
 
