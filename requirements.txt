@@ -1,7 +1,6 @@
 matplotlib
-seaborn==0.11.2
-pandas==1.4.3
-vega==3.6.0
-vega-datasets
-altair==4.2.0
-plotly==5.9.0
+seaborn
+pandas
+vega
+altair
+scipy
