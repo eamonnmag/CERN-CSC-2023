@@ -10,7 +10,7 @@ The overall goal of these exercises is to introduce some of the concepts we lear
 
 [![Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/eamonnmag/cern-csc-2023/master)
 
-Remember to select the **LCG 102** option from the **software stack** drop down when you 'spawn' the machine on SWAN.
+Remember to select the **LCG 103** option from the **software stack** drop down when you 'spawn' the machine on SWAN.
 
 ## Use
 
